@@ -1,0 +1,22 @@
+﻿  AnuncioVR.cpp
+C:\Users\Nestor\Desktop\CVV\AnuncioVR\AnuncioVR\mov.h(14,40): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nestor\Desktop\CVV\AnuncioVR\AnuncioVR\mov.h(15,57): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nestor\Desktop\CVV\AnuncioVR\AnuncioVR\mov.h(15,40): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Nestor\Desktop\CVV\AnuncioVR\AnuncioVR\mov.h(16,43): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+  AnuncioVR.vcxproj -> C:\Users\Nestor\Desktop\CVV\AnuncioVR\x64\Debug\AnuncioVR.exe
